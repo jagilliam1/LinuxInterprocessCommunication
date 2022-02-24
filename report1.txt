@@ -1,0 +1,10 @@
+Customer report: H Peck
+H Peck
+customer-peck.rpt
+1-8,Tran Date
+11-21,Transaction
+32-39,Customer
+64-69,$Labor
+52-56,$Part
+71-75,Total
+
